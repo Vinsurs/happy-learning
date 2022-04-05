@@ -135,7 +135,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 ```md
   ![logo](./images/remax.png)
 ```
-  ![logo](./images/remax.png)
+  ![logo](../../images/remax.png)
 
 类似于vue-cli,小于4kb的资源将会被base64内联处理,否则会在生产构建中被拷贝到构建目录(dist)下并且以hash命名。
 ### Public Files
